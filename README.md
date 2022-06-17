@@ -1,7 +1,7 @@
 # Landing-Page SI385-2201-SX41-Grupo-3
 
 ### About the Project:
-> Job Opportunities 
+> El principal objetivo de Job Opportunities es contribuir a estudiantes universitarios egresados de pregrado de Lima a lograr su primer trabajo como practicante y a potenciar sus capacidades con cursos de enseñanza y capacitación para afianzar su ingreso al mercado laboral.
 
 ### Integrantes:
    | Alumno| Codigo Universitario |
