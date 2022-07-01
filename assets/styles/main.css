@@ -2951,3 +2951,61 @@ ol {
   color: #FFCD2D;
   background-color: #fff;
 }
+
+.en{
+  color: #FFCD2D;
+}
+
+.es{
+  color: #000000; 
+}
+
+.languageChanger{
+  margin-top: 2rem;
+  text-align: center;
+  justify-content: center;
+  font-family: "Inter", sans-serif;
+
+}
+
+.check{
+  position: relative;
+  width: 40px;
+  /* margin: 0 5px 0 5px; */
+}
+
+.check:before{
+  content: '';
+  position: absolute;
+  width: 40px;
+  height: 15px;
+  background: #333;
+  border-radius: 15px;
+}
+
+.check:after{
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background: #fff;
+  border-radius: 15px;
+  transition: 0.25s;
+  border: 2px solid #333;
+  box-sizing: border-box;
+}
+
+.check:checked:after{
+  left: 25px;
+  border: 2px solid #FFCD2D ;
+}
+
+.check:checked::before{
+  background: #FFCD2D;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
